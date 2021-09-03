@@ -11,67 +11,69 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
+    #title: Soluções Digitais Para Seu Negócio!
+    text: Soluções Digitais Para Você <br> Atrair Mais Clientes !
+    button: Comece Agora!
     buttonlink: "#services"
 
   services:
-    title: "Services"
-    text: "Lorem ipsum"
+    title: "Como Podemos Ajudar?"
+    text: "Podemos te Ajudar a Atrair mais Clientes e<br> Aumentar sua Vendas através da Internet."
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "Criação de Sites"
+        desc: "Produzimos sites com design elegante, rápidos, seguros e otimizados para resultados de busca."
+        icon: fas fa-laptop #find more at https://fontawesome.com/icons
+      - title: "Redes Sociais"
+        desc: "Gerenciamos Redes Sociais utilizando as melhores técnicas e ferramentas."
+        icon: fas fa-thumbs-up
+      #- title: "[Identidade Visual](https://en.wikipedia.org/wiki/Markdown)"
+      - title: "Identidade Visual"
+        desc: "Somos apaixonados por design e utilizamos essa paixão na criação da sua Identidade Visual."
+        icon: fas fa-pencil-alt
 
   portfolio:
-    title: "Portfolio"
+    title: "Quem Confia Em Nosso Trabalho?"
     text: "Lorem ipsum dolor sit amet consectetur."
     section: portfolio
     closebutton: "Close Project"
 
   timeline:
-    title: "Timeline"
-    text: "Lorem ipsum timeline"
+    title: "VOCÊ SABE AVALIAR A QUALIDADE DE UM SITE?"
+    text: "Segundo recomendações do Google, destacamos 4 critérios que determinam a qualidade de um site:"
     section: timeline
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
+      - title: "Segurança"
+        #year: "2009-2011"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
+      - title: "Velocidade"
+        #year: "March 2011"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
+      - title: "Conteúdo"
+        #year: "2019"
         desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
+      - title: "Mobile Friendly"
+        #year: "2009-2011"
         desc: "Your description here, **Markdown** is fully supported."
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
         align: right
-    end: "Be Part <br> of Our <br> Story!"
+    end: "Vamos <br> Otimizar <br> Seu Site?"
 
   about:
-    title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    title: "Seja Bem-Vindo!"
+    text: "Somos a Digitalprof."
+    body: "Somos especialistas na Criação de Sites, no Gerenciamento de Redes Sociais e na Criação de Identidade Visual.<br><br>
+          Somos apaixonados por ajudar pessoas e empresas a crescerem, utilizando todo o potencial da Internet."
     section: about
 
   clients:
@@ -93,7 +95,7 @@ en: &DEFAULT_EN
         logo: assets/img/clients/creative-market.jpg
 
   team:
-    title: "OUR AMAZING TEAM"
+    title: "CONHEÇA NOSSO TIME"
     text: "Lorem ipsum dolor sit amet consectetur."
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
@@ -130,7 +132,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
 
   contact:
-    title: "Contact Us"
+    title: "Vamos Começar?"
     text: "Lorem ipsum or call 123456789"
     section: contact
     name: "Name*"
