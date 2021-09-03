@@ -174,7 +174,7 @@ Then open your browser at:
 
 Add pages, documents, data, etc. like normal to test the theme's contents. As you make modifications, your site will regenerate and you should see the changes in the browser after a refresh.
 
-## License
+## License OK
 
 The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
 
