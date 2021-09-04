@@ -18,7 +18,7 @@ url    : "" # the base hostname & protocol for your site, e.g. http://example.co
 baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : DigitalProf
-email      : "" #this is also the email contact forms will go to
+email      : "" # this is also the email contact forms will go to
 description: "Sites, Redes Sociais e Identidade Visual"
 author     : Robson K. Marques
 
@@ -26,7 +26,7 @@ logo:
   path: assets\img\logo-dprof.png
   height: 45px #height in px, defaults to 52px
 
-locale: "pt-br"  #"en-US" # See available languages in _data/sitetext.yml
+locale: "pt-BR"  #"en-US" # See available languages in _data/sitetext.yml
 
 analytics:
   google: #Google Analytics tracking code here
@@ -38,7 +38,7 @@ markdown: kramdown
 
 # Uncomment following line to use Formspree form ID based URL instead of email based URL
 # Details: https://help.formspree.io/hc/en-us/articles/360017735154-How-to-prevent-spam
-#formspree_form_path:
+#formspree_form_path: 
 
 plugins:
   - jekyll-feed

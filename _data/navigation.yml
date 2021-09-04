@@ -2,7 +2,7 @@
 # Work based on https://github.com/mmistakes/minimal-mistakes/blob/master/_data/ui-text.yml
 #
 # Configuration: Add to _config.yml
-# locale: "en-US"  [YOUR PREFERRED LOCALE]
+# locale: "pt-br"  [YOUR PREFERRED LOCALE]
 #
 # How to use:
 # {{ site.data.navigation[site.locale].nav.<var_name> | default: 'text' }}
@@ -25,7 +25,7 @@ pt: &DEFAULT_PT
       #section: team    
     #- title: "github"
       #url: https://github.com/raviriley/agency-jekyll-theme/
-pt-br:
+pt-BR:
   <<: *DEFAULT_PT
-pt-pt:
+pt-PT:
   <<: *DEFAULT_PT

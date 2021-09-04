@@ -159,7 +159,7 @@ pt: &DEFAULT_PT
         icon: "fab fa-github"
       - url: https://instagram.com
         icon: "fab fa-instagram"
-pt-br:
+pt-BR:
   <<: *DEFAULT_PT
-pt-pt:
+pt-PT:
   <<: *DEFAULT_PT
