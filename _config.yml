@@ -11,7 +11,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-theme: jekyll-agency
+#theme: jekyll-agency
 #remote_theme: raviriley/agency-jekyll-theme
 
 url    : "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -35,6 +35,13 @@ collections:
   portfolio:
 
 markdown: kramdown
+
+# Outputting
+permalink: /blog/:title/
+#paginate: 5 # amount of posts to show
+#paginate_path: /page/:num/
+#timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
 
 # Uncomment following line to use Formspree form ID based URL instead of email based URL
 # Details: https://help.formspree.io/hc/en-us/articles/360017735154-How-to-prevent-spam

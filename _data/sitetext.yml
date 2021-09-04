@@ -12,35 +12,35 @@
 pt: &DEFAULT_PT
   header:
     #title: Soluções Digitais Para Seu Negócio!
-    text: Soluções Digitais Para Você <br> Atrair Mais Clientes !
-    button: Comece Agora!
+    text: Soluções Digitais Para Sua Empresa <br> Crescer e Ter Sucesso na WEB!
+    button: Conheça Mais!
     buttonlink: "#services"
 
   services:
     title: "Como Podemos Ajudar?"
-    text: "Podemos te Ajudar a Atrair mais Clientes e<br> Aumentar sua Vendas através da Internet."
+    text: "Veja Como Podemos Ajudar Sua Empresa a Atrair mais Clientes e<br> Aumentar sua Vendas através da Internet:"
     section: services
     list:
       - title: "Criação de Sites"
-        desc: "Produzimos sites com design elegante, rápidos, seguros e otimizados para resultados de busca."
+        desc: "Produzimos sites com design atrativo, rápidos, seguros e otimizados para resultados de busca."
         icon: fas fa-laptop #find more at https://fontawesome.com/icons
-      - title: "Redes Sociais"
-        desc: "Gerenciamos Redes Sociais utilizando as melhores técnicas e ferramentas."
+      - title: "Social Media"
+        desc: "Gerenciamos Redes Sociais cuidando da Criação de Conteúdo e do Agendamento de Post."
         icon: fas fa-thumbs-up
       #- title: "[Identidade Visual](https://en.wikipedia.org/wiki/Markdown)"
       - title: "Identidade Visual"
-        desc: "Somos apaixonados por design e utilizamos essa paixão na criação da sua Identidade Visual."
+        desc: "Somos apaixonados por Design e aplicamos essa paixão em Todas as Nossas Criações."
         icon: fas fa-pencil-alt
 
   portfolio:
-    title: "Quem Confia Em Nosso Trabalho?"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "Empresas Que Confiam Em Nosso Trabalho!"
+    text: "Somos gratos aos nossos Parceiros e Clientes que confiaram e continuam confiando em nosso trabalho:"
     section: portfolio
     closebutton: "Close Project"
 
   timeline:
-    title: "VOCÊ SABE AVALIAR A QUALIDADE DE UM SITE?"
-    text: "Segundo recomendações do Google, destacamos 4 critérios que determinam a qualidade de um site:"
+    title: "SAIBA COMO AVALIAR A QUALIDADE DE UM SITE!"
+    text: "Conheça 4 critérios que determinam o nível de qualidade de um site, segundo recomendações do Google:"
     section: timeline
     # left is the default
     #start_align: "left"
@@ -67,13 +67,13 @@ pt: &DEFAULT_PT
         alt:
         # you can enforce the alignment
         align: right
-    end: "Vamos <br> Otimizar <br> Seu Site?"
+    end: "Você Quer <br> Avaliar <br> Seu Site?"
 
   about:
     title: "Seja Bem-Vindo!"
     text: "Somos a Digitalprof."
-    body: "Somos especialistas na Criação de Sites, no Gerenciamento de Redes Sociais e na Criação de Identidade Visual.<br><br>
-          Somos apaixonados por ajudar pessoas e empresas a crescerem, utilizando todo o potencial da Internet."
+    body: "Somos especialistas na Criação e Otimização de Sites, no Gerenciamento de Redes Sociais e na Criação de Identidade Visual.<br><br>
+          Somos apaixonados por ajudar pessoas e empresas a crescerem, utilizando todo o potencial da web."
     section: about
 
   clients:
@@ -132,22 +132,22 @@ pt: &DEFAULT_PT
             icon: fab fa-linkedin-in
 
   contact:
-    title: "Vamos Começar?"
-    text: "Lorem ipsum or call 123456789"
+    title: "Vamos Conversar?"
+    text: "Podemos ajudar sua empresa com uma solução completa de Marketing Digital.<br> Preencha o formulário abaixo e clique no botão para iniciar uma conversa:"
     section: contact
-    name: "Name*"
-    name-validation: "Please enter your name."
-    email: "Email*"
-    email-validation: "Please enter your email address."
-    phone: "Phone Number"
-    phone-validation: "Please enter your phone number."
-    message: "Message*"
-    message-validation: "Please enter a message."
+    name: "Nome*"
+    name-validation: "Digite seu nome."
+    email: "E-mail*"
+    email-validation: "Digite seu melhor email."
+    phone: "Telefone ou Celular"
+    phone-validation: "Digite seu telefone."
+    message: "Descreva sua Necessidade"
+    message-validation: "Descreva sua necessidade."
     subject: "Contact Form Submission"
-    submit: "Enviar Mensagem"
+    submit: "Quero Receber Contato"
 
   footer:
-    legal: "Privacy Policy"
+    legal: "Política de Privacidade"
     social:
       - url: https://twitter.com
         icon: "fab fa-twitter"
