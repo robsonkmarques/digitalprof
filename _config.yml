@@ -18,7 +18,7 @@ url    : "" # the base hostname & protocol for your site, e.g. http://example.co
 baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : DigitalProf
-email      : digitalprofmkt@gmail.com #this is also the email contact forms will go to
+email      : "digitalprofmkt@gmail.com" #this is also the email contact forms will go to
 description: "Sites, Redes Sociais e Identidade Visual"
 author     : Robson K. Marques
 
@@ -38,7 +38,7 @@ markdown: kramdown
 
 # Uncomment following line to use Formspree form ID based URL instead of email based URL
 # Details: https://help.formspree.io/hc/en-us/articles/360017735154-How-to-prevent-spam
-#formspree_form_path: 
+formspree_form_path: "https://formspree.io/f/mdoyylov"
 
 
 plugins:
