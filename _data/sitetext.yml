@@ -144,7 +144,7 @@ pt: &DEFAULT_PT
     message: "Message*"
     message-validation: "Please enter a message."
     subject: "Contact Form Submission"
-    submit: "Send Message"
+    submit: "Enviar Mensagem"
 
   footer:
     legal: "Privacy Policy"
