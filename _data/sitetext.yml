@@ -78,21 +78,22 @@ pt: &DEFAULT_PT
 
   clients:
     section: clients
-    max-height: 100px
+    max-height: 100px    
     horizontal-scrolling: "" #"yes/no"
     list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
+      - title: "Roperbras"
+        url: https://www.roperbras.com.br/
+        logo: assets/img/clients/roperbras-logo.jpg
+      - title: "Open Automação"
+        url: https://openinfo.com.br/
+        logo: assets/img/clients/open-info-logo.jpg
+      - title: "Colégio Brasileiro"
+        url: https://www.colegiobrasileirosp.com.br/
+        logo: assets/img/clients/colegio-brasileiro-logo.jpg
+      - title: "Data Byte"
+        url: https://databytevilamatilde.com.br/
+        logo: assets/img/clients/data-byte-logo.jpg      
+      
 
   team:
     title: "CONHEÇA NOSSO TIME"
