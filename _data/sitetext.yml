@@ -11,8 +11,8 @@
 # -----------------
 pt: &DEFAULT_PT
   header:
-    #title: Soluções Digitais Para Seu Negócio!
-    text: Soluções Digitais Para Sua Empresa <br> Crescer e Ter Sucesso na WEB!
+    title: 
+    text:  "Soluções Digitais Para Sua Empresa <br> Crescer e Ter Sucesso na WEB!"
     button: Conheça Mais!
     buttonlink: "#services"
 
@@ -39,28 +39,28 @@ pt: &DEFAULT_PT
     closebutton: "Close Project"
 
   timeline:
-    title: "SAIBA COMO AVALIAR A QUALIDADE DE UM SITE!"
-    text: "Conheça 4 critérios que determinam o nível de qualidade de um site, segundo recomendações do Google:"
+    title: "SAIBA COMO AVALIAR A QUALIDADE DO SEU SITE!"
+    text: "Conheça os 4 critérios que determinam o nível de qualidade do seu site, segundo recomendações do Google:"
     section: timeline
     # left is the default
     #start_align: "left"
     events:
-      - title: "Segurança"
+      - title: "#1 Segurança"
         #year: "2009-2011"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "Velocidade"
+      - title: "#2 Velocidade"
         #year: "March 2011"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Conteúdo"
+      - title: "#3 Conteúdo"
         #year: "2019"
         desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: "Mobile Friendly"
+      - title: "#4 Mobile Friendly"
         #year: "2009-2011"
         desc: "Your description here, **Markdown** is fully supported."
         image: assets/img/timeline/4.jpg

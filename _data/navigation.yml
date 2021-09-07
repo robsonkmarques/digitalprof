@@ -17,7 +17,7 @@ pt: &DEFAULT_PT
       section: services
     - title: "Como Fazemos?"
       section: portfolio    
-    - title: "Timeline"
+    - title: "Avalie Seu Site!"
       section: timeline
     - title: "Contato"
       section: contact
