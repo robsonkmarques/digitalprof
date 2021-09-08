@@ -1,15 +1,14 @@
 ---
-caption: #what displays in the portfolio grid:
-  title: Colégio Brasileiro
-  subtitle: Colégio Particular
-  thumbnail: assets/img/portfolio/04-thumbnail.jpg
-  
-#what displays when the item is clicked:
-title: Title
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/04-thumbnail.jpg #main image, can be a link or a file in assets/img/portfolio
-alt: image alt text
+title: Project Name
+subtitle: Lorem ipsum dolor sit amet consectetur.
+image: assets/img/portfolio/site.jpeg
+alt: Keep Exploring
 
+caption:
+  title: Criação de Sites
+  subtitle: Produzimos sites com design atrativo, rápidos, seguros e otimizados para resultados de busca.
+  thumbnail: assets/img/portfolio/site.jpeg
 ---
-Use this area to describe your project. **Markdown** supported.
+
+Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
 

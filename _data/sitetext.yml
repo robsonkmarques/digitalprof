@@ -16,27 +16,37 @@ pt: &DEFAULT_PT
     button: Conheça Mais!
     buttonlink: "#services"
 
-  services:
-    title: "Como Podemos Ajudar?"
-    text: "Veja Como Podemos Ajudar Sua Empresa a Atrair mais Clientes e<br> Aumentar sua Vendas através da Internet:"
-    section: services
-    list:
-      - title: "Criação de Sites"
-        desc: "Produzimos sites com design atrativo, rápidos, seguros e otimizados para resultados de busca."
-        icon: fas fa-laptop #find more at https://fontawesome.com/icons
-      - title: "Social Media"
-        desc: "Gerenciamos Redes Sociais cuidando da Criação de Conteúdo e do Agendamento de Post."
-        icon: fas fa-thumbs-up
-      #- title: "[Identidade Visual](https://en.wikipedia.org/wiki/Markdown)"
-      - title: "Identidade Visual"
-        desc: "Somos apaixonados por Design e aplicamos essa paixão em Todas as Nossas Criações."
-        icon: fas fa-pencil-alt
-
   portfolio:
-    title: "Empresas Que Confiam Em Nosso Trabalho!"
-    text: "Somos gratos aos nossos Parceiros e Clientes que confiaram e continuam confiando em nosso trabalho:"
+    title: "Nossos Serviços"
+    text: "Veja Como Podemos Ajudar Sua Empresa a Atrair mais Clientes e<br> Aumentar sua Vendas através da Internet:"
     section: portfolio
     closebutton: "Close Project"
+
+  about:
+    title: "Somos a DigitalProf."
+    text: "Seja Bem-Vindo!"
+    body: "Somos especialistas na Criação e Otimização de Sites, no Gerenciamento de Redes Sociais e na Criação de Identidade Visual.<br><br>
+          Somos apaixonados por ajudar pessoas e empresas a crescerem, utilizando todo o potencial da web."
+    section: about
+  
+  services:
+    title: "Mais de 90% das pessoas pesquisam na internet<br> antes de efetuar uma compra!"
+    text: "Os dados abaixo revelam o alcance da Internet sobre uma população mundial de 7,83 Bilhões.<br> Dados: Internet Live Stats e Digital In 2021."
+    section: services
+    list:
+      - title: "4.6"
+        desc: "Bilhões de Pessoas<br> Acessam a Internet"
+        icon: fas fa-wifi #find more at https://fontawesome.com/icons
+      - title: "4.2"
+        desc: "Bilhões de Pessoas<br> Usam Redes Sociais"
+        icon: fas fa-thumbs-up
+      #- title: "[Identidade Visual](https://en.wikipedia.org/wiki/Markdown)"
+      - title: "3.5"
+        desc: "Bilhões de Buscas<br> Diárias no Google"
+        icon: fas fa-search
+      - title: "5.2"
+        desc: "Bilhões de Pessoas<br> Usam Celular"
+        icon: fas fa-mobile-alt  
 
   timeline:
     title: "SAIBA COMO AVALIAR A QUALIDADE DO SEU SITE!"
@@ -69,29 +79,24 @@ pt: &DEFAULT_PT
         align: right
     end: "Você Quer <br> Avaliar <br> Seu Site?"
 
-  about:
-    title: "Seja Bem-Vindo!"
-    text: "Somos a Digitalprof."
-    body: "Somos especialistas na Criação e Otimização de Sites, no Gerenciamento de Redes Sociais e na Criação de Identidade Visual.<br><br>
-          Somos apaixonados por ajudar pessoas e empresas a crescerem, utilizando todo o potencial da web."
-    section: about
-
   clients:
+    title: "Empresas Que Confiam Em Nosso Trabalho!"
+    text: "Somos gratos aos nossos Parceiros e Clientes que confiaram e continuam confiando em nosso trabalho:"
     section: clients
     max-height: 100px    
     horizontal-scrolling: "" #"yes/no"
     list:
       - title: "Roperbras"
-        url: https://www.roperbras.com.br/
+        #url: 
         logo: assets/img/clients/roperbras-logo.jpg
       - title: "Open Automação"
-        url: https://openinfo.com.br/
+        #url: 
         logo: assets/img/clients/open-info-logo.jpg
       - title: "Colégio Brasileiro"
-        url: https://www.colegiobrasileirosp.com.br/
+        #url: 
         logo: assets/img/clients/colegio-brasileiro-logo.jpg
       - title: "Data Byte"
-        url: https://databytevilamatilde.com.br/
+        #url: 
         logo: assets/img/clients/data-byte-logo.jpg      
       
 

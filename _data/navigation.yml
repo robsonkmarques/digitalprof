@@ -14,9 +14,9 @@ pt: &DEFAULT_PT
     - title: "Quem Somos?"
       section: about
     - title: "O que Fazemos?"
-      section: services
-    - title: "Como Fazemos?"
-      section: portfolio    
+      section: portfolio
+    - title: "Por Que Fazemos?"
+      section: services 
     - title: "Avalie Seu Site!"
       section: timeline
     - title: "Contato"
