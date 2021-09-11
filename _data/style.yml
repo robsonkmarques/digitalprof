@@ -1,10 +1,16 @@
 #Color Customization
-highlight: "#054ADA"
+highlight: "$blue-dprof"
 #white: "#FF0000"
 #black: "#000"
 
 #Image Customization
 header-image: "../img/header.jpg"
+about-image: ""
+portfolio-image: ""
+services-image: ""
+timeline-image: ""
 contact-image: "../img/contato.png"
+
+
 #Font Awesome icon for portfolio grid when an item is hovered over
 portfolio-icon: fas fa-expand-arrows-alt fa-2x #default: fas fa-plus fa-3x

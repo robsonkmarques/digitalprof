@@ -11,26 +11,26 @@
 # -----------------
 pt: &DEFAULT_PT
   header:
-    title: 
-    text:  "Soluções Digitais Para Sua Empresa <br> Crescer e Ter Sucesso na WEB!"
-    button: Conheça Mais!
+    title: "Soluções Digitais Para sua Empresa<br> Ter Sucesso na Internet!"
+    text:  
+    button: CONHEÇA MAIS!
     buttonlink: "#services"
 
   portfolio:
     title: "Nossos Serviços"
     text: "Veja Como Podemos Ajudar Sua Empresa a Atrair mais Clientes e<br> Aumentar sua Vendas através da Internet:"
     section: portfolio
-    closebutton: "Close Project"
+    closebutton: "Voltar"
 
   about:
-    title: "Somos a DigitalProf."
-    text: "Seja Bem-Vindo!"
-    body: "Somos especialistas na Criação e Otimização de Sites, no Gerenciamento de Redes Sociais e na Criação de Identidade Visual.<br><br>
-          Somos apaixonados por ajudar pessoas e empresas a crescerem, utilizando todo o potencial da web."
+    title: "Conheça a digitalprof."
+    text: "Somos uma agência especializada em Marketing Digital com 15 anos de experiência.<br>
+          Somos apaixonados por ajudar empresas a crescerem, utilizando todo o potencial da web.<br> Seja bem-vindo, somos a digitalprof."
+    body: 
     section: about
   
   services:
-    title: "Mais de 90% das pessoas pesquisam na internet<br> antes de efetuar uma compra!"
+    title: "Mais de 90% das Pessoas Pesquisam na Internet<br> Antes de Efetuar uma Compra!"
     text: "Os dados abaixo revelam o alcance da Internet sobre uma população mundial de 7,83 Bilhões.<br> Dados: Internet Live Stats e Digital In 2021."
     section: services
     list:
@@ -49,7 +49,7 @@ pt: &DEFAULT_PT
         icon: fas fa-mobile-alt  
 
   timeline:
-    title: "SAIBA COMO AVALIAR A QUALIDADE DO SEU SITE!"
+    title: "Saiba Como Avaliar a Qualidade do Seu Site!"
     text: "Conheça os 4 critérios que determinam o nível de qualidade do seu site, segundo recomendações do Google:"
     section: timeline
     # left is the default
@@ -80,7 +80,7 @@ pt: &DEFAULT_PT
     end: "Você Quer <br> Avaliar <br> Seu Site?"
 
   clients:
-    title: "Empresas Que Confiam Em Nosso Trabalho!"
+    title: "Empresas que Confiam em Nosso Trabalho!"
     text: "Somos gratos aos nossos Parceiros e Clientes que confiaram e continuam confiando em nosso trabalho:"
     section: clients
     max-height: 100px    
@@ -150,7 +150,7 @@ pt: &DEFAULT_PT
     message: "Descreva sua Necessidade"
     message-validation: "Descreva sua necessidade."
     subject: "Contact Form Submission"
-    submit: "Quero Receber Contato"
+    submit: "QUERO RECEBER CONTATO"
 
   footer:
     legal: "Política de Privacidade"

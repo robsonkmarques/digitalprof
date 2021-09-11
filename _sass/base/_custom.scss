@@ -1,6 +1,18 @@
 // Global Custom Class
-
-.bg-light-custom {    
-    background-color:$gray-dprof!important;
+  
+  p.text-muted {    
+    text-transform: none!important;
+    font-style: normal!important;
   }
 
+  .text-uppercase {    
+    text-transform: none!important;
+  }
+
+  .bg-light {    
+    background-color:$gray-200!important;
+  }
+
+  .text-light {    
+    color:$gray-100!important;
+  }

@@ -1,4 +1,5 @@
 // Global styling for this template
+
 body {
   overflow-x: hidden;
   @include body-font;
@@ -11,7 +12,7 @@ p {
 a {
   color: $primary;
   &:hover {
-    color: darken($primary, 10%);
+    color: darken($orange-dprof, 10%);
   }
 }
 
@@ -25,29 +26,29 @@ h3,
 h4,
 h5,
 h6 {
-  font-weight: 700;
+  font-weight: 500;  
   @include heading-font;
 }
 
 .page-section {
-  /*background-color:#000000!important;*/
-  padding: 100px 0;
-  
+  padding: 100px 0px;
+}
+
+    
   h2.section-heading {
-    font-size: 33px;
+    font-size: 35px;    
     margin-top: 0;
     margin-bottom: 15px;
   }
   
   h3.section-subheading {
     font-size: 17px;
-    font-weight: 400;
-    font-style: italic;
+    font-weight: 400;    
     margin-bottom: 75px;
-    text-transform: none;
+    line-height: 1.75;      
     @include serif-font;
   }
-}
+
 @media (min-width: 768px) {
   section {
     padding: 150px 0;
@@ -72,4 +73,3 @@ img::selection {
 img::-moz-selection {
   background: transparent;
 }
-
