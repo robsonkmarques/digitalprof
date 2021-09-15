@@ -24,7 +24,7 @@ author     : Robson K. Marques
 
 logo: 
   path: assets\img\logo-dprof.png
-  height: 45px #height in px, defaults to 52px
+  height: 42px #height in px, defaults to 52px
 
 locale: "pt-BR"  #"en-US" # See available languages in _data/sitetext.yml
 
