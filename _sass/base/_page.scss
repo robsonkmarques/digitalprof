@@ -6,7 +6,7 @@ body {
 }
 
 p {
-  line-height: 1.75;
+  line-height: 1.5;
 }
 
 a {
@@ -26,7 +26,8 @@ h3,
 h4,
 h5,
 h6 {
-  font-weight: 500;  
+  font-weight: 400;
+  line-height: 1.4;        
   @include heading-font;
 }
 
@@ -34,10 +35,15 @@ h6 {
   padding: 100px 0px;
 }
 
+#about {
+  padding-bottom: 60px;
+}
     
 h1.section-heading {
-  font-size: 35px;      
+  font-size: 35px;
+  line-height: 1.4!important;  
 }
+
 
   h2.section-heading {
     font-size: 35px;    
@@ -48,7 +54,7 @@ h1.section-heading {
   h3.section-subheading {
     font-size: 17px;
     font-weight: 400;    
-    margin-bottom: 75px;
+    margin-bottom: 50px;
     line-height: 1.75;      
     @include serif-font;
   }

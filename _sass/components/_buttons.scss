@@ -1,12 +1,12 @@
 // Button Styles
 .btn {
   @include heading-font;
-  font-weight: 700;
+  font-weight: 500;
 }
 
 .btn-xl {
   font-size: 17px;
-  padding: 10px 60px;
+  padding: 10px 50px;
 }
 
 .btn-primary {
