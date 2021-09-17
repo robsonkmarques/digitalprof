@@ -11,15 +11,15 @@
 # -----------------
 pt: &DEFAULT_PT
   nav:
-    - title: "QUEM SOMOS?"
+    - title: "Quem somos?"
       section: about
-    - title: "O QUE FAZEMOS?"
+    - title: "O que fazemos?"
       section: portfolio
-    - title: "POR QUE FAZEMOS?"
+    - title: "Por que fazemos?"
       section: services 
-    - title: "AVALIE SEU SITE!"
+    - title: "Avalie seu site!"
       section: timeline
-    - title: "CONTATO"
+    - title: "Vamos conversar?"
       section: contact
     #- title: "Team"
       #section: team    

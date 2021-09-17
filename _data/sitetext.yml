@@ -11,9 +11,9 @@
 # -----------------
 pt: &DEFAULT_PT
   header:
-    title: "Soluções Digitais Para sua Empresa<br> Ter Sucesso na Internet!"
+    title: "Soluções digitais para sua empresa<br> ter sucesso na internet!"
     text:  
-    button: CONHEÇA MAIS!
+    button: Conheça mais!
     buttonlink: "#services"
 
   portfolio:
@@ -57,22 +57,23 @@ pt: &DEFAULT_PT
     events:
       - title: "#1 Segurança"
         #year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        desc: "Priorizar a segurança do seu site, significa manter suas informações seguras.<br> Verifique o status de segurança do site no ícone à esquerda da barra do seu navegador. A sigla (https) no início do endereço, indica que o site possui um certificado de segurança válido."
         image: assets/img/timeline/1.jpg
         alt:
       - title: "#2 Velocidade"
         #year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        desc: "Se o seu site demora mais de 2 ou 3 segundos para carregar, você está perdendo clientes nesse momento. Aleḿ disso, a velocidade de um site interfere no seu posicionamento na internet. Teste a velocidade do seu site com a ferramenta gratuita do Google PageSpeed Insights."
         image: assets/img/timeline/2.jpg
         alt:
       - title: "#3 Conteúdo"
         #year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+        desc: "O Google usa algoritmos que determinam qual conteúdo é mais relevante para os usuários da Internet. Esses algoritmos consideram muitos fatores para qualificar o conteúdo. Para produzir conteúdo de qualidade é preciso focar na intenção de busca e não somente em palavras-chave."
         image: assets/img/timeline/3.jpg
         alt: image alt text
       - title: "#4 Mobile Friendly"
         #year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
+        desc: "Mobile Friendly é a capacidade que faz com que um site seja facilmente utilizado em dispositivos móveis. Desde 2016 o celular ultrapassou o desktop e passou a ser o dispositivo mais utilizado para acesso a internet. Daí a importância de ter um site otimizado para dipositivos móveis.
+"
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
