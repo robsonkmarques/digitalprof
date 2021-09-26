@@ -11,10 +11,10 @@
 # -----------------
 pt: &DEFAULT_PT
   header:
-    title: "Soluções digitais para sua empresa<br> ter sucesso na internet!"
+    title: "Soluções Digitais para sua Empresa<br> ter sucesso na Internet!"
     text:  
-    button: Conheça mais!
-    buttonlink: "#services"
+    button: CONHEÇA MAIS!
+    buttonlink: "#about"
 
   portfolio:
     title: "Nossos Serviços"
@@ -93,12 +93,13 @@ pt: &DEFAULT_PT
       - title: "Open Automação"
         #url: 
         logo: assets/img/clients/open-info-logo.jpg
-      - title: "Colégio Brasileiro"
+      - title: "Instituto Esoc"
         #url: 
-        logo: assets/img/clients/colegio-brasileiro-logo.jpg
+        logo: assets/img/clients/logo-ie-dprof.png
       - title: "Data Byte"
         #url: 
         logo: assets/img/clients/data-byte-logo.jpg      
+      
       
 
   team:

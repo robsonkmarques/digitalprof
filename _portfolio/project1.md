@@ -4,12 +4,10 @@ caption:
   subtitle: Gerenciamos Redes Sociais cuidando da Criação de Conteúdo e do Agendamento de Post.
   thumbnail: assets/img/portfolio/social.jpeg
 
-
 title: 
 subtitle: 
 image: assets/img/portfolio/social.jpeg
 alt: Shirts on a hanger
-
 ---
 
 

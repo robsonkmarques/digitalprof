@@ -1,8 +1,9 @@
 // Global CSS Custom
   
-  p.text-muted {    
+  .text-muted {    
     text-transform: none!important;
-    font-style: normal!important;    
+    font-style: normal!important;
+    color: $gray-800!important;    
   }
 
   .text-uppercase {    
@@ -15,4 +16,14 @@
 
   .text-light {    
     color:$gray-100!important;
+  }
+
+
+  h4.service-heading {
+    font-size: 24px;
+    font-weight: 500;            
+  }
+
+  h2.section-heading {
+    color:$black;
   }
