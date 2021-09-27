@@ -11,7 +11,7 @@
 # -----------------
 pt: &DEFAULT_PT
   header:
-    title: "Soluções Digitais para sua Empresa<br> ter sucesso na Internet!"
+    title: "Soluções de Marketing Digital para<br> sua Empresa ter Sucesso na Web!"
     text:  
     button: CONHEÇA MAIS!
     buttonlink: "#about"
