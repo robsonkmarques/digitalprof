@@ -163,8 +163,8 @@ pt: &DEFAULT_PT
         icon: "fab fa-facebook-f"
       - url: https://linkedin.com
         icon: "fab fa-linkedin-in"
-      - url: https://github.com/raviriley/agency-jekyll-theme
-        icon: "fab fa-github"
+      #- url: https://github.com/robsonkmarques/digitalprof-site
+      #  icon: "fab fa-github"
       - url: https://instagram.com
         icon: "fab fa-instagram"
 pt-BR:
