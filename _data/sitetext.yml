@@ -19,7 +19,7 @@ pt: &DEFAULT_PT
 
   portfolio:
     title: "Nossos Serviços"
-    text: "Veja Como Podemos Ajudar Sua Empresa a Atrair mais Clientes e<br> Aumentar sua Vendas através da Internet:"
+    text: "Veja Como Podemos Ajudar Sua Empresa a **Atrair mais Clientes**{:.distak} e<br> Aumentar sua Vendas através da Internet:"
     section: portfolio
     closebutton: "Voltar"
 
