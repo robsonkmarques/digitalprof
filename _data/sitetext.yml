@@ -11,8 +11,9 @@
 # -----------------
 pt: &DEFAULT_PT
   header:
-    title: "Soluções de Marketing Digital para<br> sua Empresa ter Sucesso na Web!"
-    text:  
+    title: "Soluções de **Marketing Digital**{:.distak} para<br> sua Empresa ter Sucesso na Web!"    
+    text: 
+ 
     button: CONHEÇA MAIS!
     buttonlink: "#about"
 
