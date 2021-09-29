@@ -1,16 +1,16 @@
 ---
 layout: page
-title: Privacy Policy
+title: Política de Privacidade
 background: grey
 ---
 
 <div class="col-lg-12 text-center">
-	<h2 class="section-heading text-uppercase">Privacy Policy</h2>
+	<h2 class="section-heading text-uppercase">POLÍTICA DE PRIVACIDADE</h2>
 </div>
 
-This Privacy Policy describes how your personal information is collected, used, and shared when you visit {{ site.title }} (the “Site”).
+This Privacy Policy describes how your personal information is collected, used, and shared when you visit {{ site.title }} (the “digitalprof.com.br”).
 
-**PERSONAL INFORMATION WE COLLECT**
+**INFORMAÇÕES PESSOAIS QUE COLETAMOS**
 
 {% if site.analytics.google %}
 
@@ -30,10 +30,10 @@ We do not collect any data about you or use any cookies.
 
 {% endif %}
 
-**CHANGES**
+**ALTERAÇÕES**
 
 We may update this privacy policy from time to time for personal, operational, legal, or regulatory reasons.
 
-**CONTACT US**
+**CONTATE-NOS**
 
 For more information about our privacy practices or if you have questions, please contact us by email at <a href="mailto:{{ site.email }}">{{ site.email }}</a>.
