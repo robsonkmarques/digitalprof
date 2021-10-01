@@ -33,14 +33,8 @@
     font-weight: 500;
   }
 
-  .mcol-25 {
-    
-    width: 25%;
-    
-  }
-  
-  .mcol-75 {
-    
-    width: 75%;
-    
-  }
+  .img-fluid {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 50px;
+}
