@@ -8,21 +8,24 @@ section#contact {
   .section-heading {
     color: $white;
   }
-  .form-group {
+  .form-group {        
     margin-bottom: 25px;  
-    margin-left: 275px;  
-    width: 50%;    
+    margin: auto;    
     input,
     textarea {
       padding: 20px;
     }
     input.form-control {
-      height: auto;
+      height: 60px;
+      width: 100%;
     }
+
+    
     textarea.form-control {
       height: 248px;      
     }
   }
+
   .form-control:focus {
     border-color: $primary;
     box-shadow: none;

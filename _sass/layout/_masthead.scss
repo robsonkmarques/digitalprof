@@ -10,31 +10,38 @@ header.masthead {
   background-size: cover;
   
   .intro-text {
-    padding-top: 190px;
-    padding-bottom: 360px;
+    padding-top: 180px;
+    padding-bottom: 380px;
+  }
     
     
     .intro-lead-in {
       font-size: 25px;
       font-style: italic;
-      line-height: 50px;
+      line-height: 70px;
       margin-bottom: 25px;
       @include serif-font;
     }
+
     .intro-heading {
-      font-size: 25px;
+      font-size: 40px;
       font-weight: 500;
       line-height: 50px;
       margin-bottom: 25px;
       @include heading-font;
     }
   }
-}
-@media (min-width: 768px) {
+
+  
+@media (max-width: 400px) {
+  
   header.masthead {
+    
     .intro-text {
-      padding-top: 180px;
-      padding-bottom: 380px;      
+      padding-top: 100px;
+      padding-bottom: 380px;
+      }
+      
       .intro-lead-in {
         font-size: 25px;
         font-style: italic;
@@ -42,15 +49,14 @@ header.masthead {
         margin-bottom: 25px;
         @include serif-font;
       }
-
-      // Estilo da Fonte do Título Principal
+      
       .intro-heading {
-        font-size: 40px;
+        font-size: 34px;
         font-weight: 500;
         line-height: 70px;
-        margin-bottom: 0px;
+        margin-bottom: 25px;
         @include heading-font;
       }
     }
   }
-}
+
