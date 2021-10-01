@@ -3,7 +3,7 @@
   .text-muted {    
     text-transform: none!important;
     font-style: normal!important;
-    color: $gray-800!important;    
+    // color: $gray-900!important;    
   }
 
   .text-uppercase {    
@@ -11,11 +11,21 @@
   }
 
   .bg-light {    
-    background-color:$gray-200!important;
+    background-color:$blue-light-dprof!important;
   }
 
   .text-light {    
     color:$gray-100!important;
+  }
+
+  .service-heading {    
+    color:$black!important;
+    font-weight: 600;
+  }
+
+  .subheading {    
+    color:$black!important;
+    font-weight: 500;
   }
 
 
@@ -24,16 +34,23 @@
     font-weight: 500;            
   }
 
+  h4 {
+    color:$black;
+    font-weight: 500;
+  }
+
   h2.section-heading {
     color:$black;
   }
 
+// Cor do texto em destaque
   .distak {
     color:$orange-dprof;
     font-weight: 500;
   }
 
-  .img-fluid {
+// Ajuste responsivo no espaço entre imagens na seçao clientes
+  .d-block {
     max-width: 100%;
     height: auto;
     margin-bottom: 50px;
