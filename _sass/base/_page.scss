@@ -6,7 +6,7 @@ body {
 }
 
 p {
-  line-height: 1.6;
+  line-height: 1.7;
 }
 
 a {
@@ -17,7 +17,7 @@ a {
 }
 
 .text-primary {
-  color: $primary !important;
+  color: $orange-dprof!important;
 }
 
 h1,
@@ -38,58 +38,67 @@ h6 {
 }
     
 h1.section-heading {
-  font-size: 40px;  
+  font-size: 40px;
+  padding-left: 100px;
+  padding-right: 100px;
 }
 
-
-  h2.section-heading {
-    font-size: 40px;
-    font-weight: 400;        
-    margin-top: 0;
-    margin-bottom: 15px;
-    line-height: 1.6;      
-  }
+h2.section-heading {
+  color:$primary;
+  font-weight: 700;
+  font-size: 36px;
+  margin-top: 0;
+  margin-bottom: 15px;
+  line-height: 1.7;      
+}  
   
   h3.section-subheading {
     font-size: 18px;
     font-weight: 400;    
     margin-bottom: 50px;
-    line-height: 1.6;      
+    line-height: 1.7;      
     @include serif-font;
+  }
+
+  h3.service-heading {
+    color: $gray-700;
   }
 
   h4 {
     font-size: 18px;
     font-weight: 500;    
-    line-height: 1.6;          
+    line-height: 1.7;
+    color: $orange-dprof!important;
   }
 
-@media (max-width: 400px) {
+@media (max-width: 767px) {
   
   h1.section-heading {
-    font-size: 30px;  
+    font-size: 30px;
+    padding-left: 20px;
+    padding-right: 20px;  
   }
   
   
   h2.section-heading {
-      font-size: 30px;    
+      font-size: 30px;          
       margin-top: 0;
       margin-bottom: 15px;
-      line-height: 1.6;      
+      line-height: 1.7;      
   }
     
   h3.section-subheading {
       font-size: 16px;
       font-weight: 400;    
       margin-bottom: 50px;
-      line-height: 1.6;      
+      line-height: 1.7;      
       @include serif-font;
   }
   
   h4 {
       font-size: 16px;
-      font-weight: 500;    
-      line-height: 1.6;          
+      font-weight: 700;    
+      line-height: 1.7;          
   }
 
 }

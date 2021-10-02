@@ -14,7 +14,7 @@
           action="https://formspree.io/f/mdoyylov" novalidate="novalidate" method="POST"> 
           <!--name="sentMessage"-->
           <div class="row">
-            <div class="col-md-6 offset-md-3">
+            <div class="col-md-6 offset-md-3 block-form">
               <div class="form-group">
                 <input name="name" class="form-control" id="name" type="text"
                   placeholder="{{ site.data.sitetext[site.locale].contact.name | default: "Name*" }}"
@@ -33,17 +33,16 @@
                   required="required" data-validation-required-message="{{ site.data.sitetext[site.locale].contact.phone-validation | default: "Please enter your phone number." }}">
                 <p class="help-block text-danger"></p>
               </div>
-            </div>            
+            
             <input type="hidden" name="_subject" id="email-subject"
               value="{{ site.data.sitetext[site.locale].contact.subject | default: "Contact Form Submission" }}">
-            <div class="clearfix"></div>
-            <div class="col-md-6 offset-md-3">
-              <div id="success"></div>
+                        
               <button id="sendMessageButton" class="btn btn-primary btn-xl text-uppercase"
                 type="submit">{{ site.data.sitetext[site.locale].contact.submit | default: "Send Message" }}</button>
-            </div>
+           
             <input type="text" name="_gotcha" style="display:none">
             <input type="hidden" name="_next" value="#" />
+          </div>            
           </div>
         </form>
       </div>
