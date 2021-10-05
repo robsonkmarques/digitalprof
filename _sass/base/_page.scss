@@ -64,11 +64,10 @@ h2.section-heading {
     color: $gray-700;
   }
 
-  h4 {
-    font-size: 18px;
+  h4.section-subheading {
+    font-size: 20px;
     font-weight: 500;    
-    line-height: 1.7;
-    color: $orange-dprof!important;
+    line-height: 1.7;    
   }
 
 @media (max-width: 767px) {
@@ -94,12 +93,7 @@ h2.section-heading {
       line-height: 1.7;      
       @include serif-font;
   }
-  
-  h4 {
-      font-size: 16px;
-      font-weight: 700;    
-      line-height: 1.7;          
-  }
+    
 
 }
 

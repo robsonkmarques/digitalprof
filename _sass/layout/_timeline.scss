@@ -8,7 +8,7 @@
     top: 0;
     bottom: 0;
     left: 40px;
-    width: 2px;
+    width: 3px;
     margin-left: -1.5px;
     content: "";
     background-color: $primary;
@@ -53,13 +53,14 @@
       margin-left: 0;
       text-align: center;
       color: $white;
-      border: 2px solid $primary;
+      border: 3px solid $primary;
       border-radius: 100%;
       background-color: $white;
       h4 {
         font-size: 10px;
         line-height: 14px;
         margin-top: 12px;
+        color: $orange-dprof;
       }
     }
     &.timeline-inverted > .timeline-panel {
@@ -85,8 +86,10 @@
   }
   .timeline-heading {
     h4 {
+      text-align: left;  
       margin-top: 0;
-      color: inherit;
+      color: $orange-dprof;
+      font-size: 20px;
       &.subheading {
         text-transform: none;
       }
@@ -97,6 +100,7 @@
     > p {
       margin-bottom: 0;
     }
+    text-align: justify;  
   }
 }
 @media (min-width: 768px) {
