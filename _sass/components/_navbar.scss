@@ -35,7 +35,7 @@
     .nav-item {
       .nav-link {
         font-size: 95%;
-        font-weight: 400;
+        font-weight: 500;
         padding: 0.75em 0;
         letter-spacing: 1px;
         color: white;
@@ -43,8 +43,8 @@
         &:hover {
         color: $orange-dprof;
         background-image: linear-gradient($orange-dprof 100%, transparent 100%);
-        background-position: 0 3.2em;
-        background-repeat: repeat-x;
+        background-position: 0 3.3em;
+        background-repeat: repeat-x;        
         background-size: 1.5px 1.5px;        
         }
       }
