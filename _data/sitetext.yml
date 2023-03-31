@@ -19,14 +19,14 @@ pt: &DEFAULT_PT
 
   portfolio:
     title: "Nossos Serviços"
-    text: "Veja Como Podemos Ajudar Sua Empresa a **Atrair mais Clientes**{:.distak} e<br> Aumentar sua Vendas através da Internet:"
+    text: "Veja Como Podemos Ajudar Sua Empresa a **Atrair mais Clientes**{:.distak} e<br> Aumentar suas Vendas através da Internet:"
     section: portfolio
     closebutton: "Voltar"
 
   about:
     title: "Conheça a digitalprof."
     text: "Somos uma agência especializada em Marketing Digital com 15 anos de experiência.<br>
-          Somos apaixonados por ajudar empresas a crescerem, utilizando todo o potencial da web.<br> Seja bem-vindo, somos a digitalprof."
+          Somos apaixonados por ajudar empresas a crescerem, utilizando todo o potencial da web.<br> Seja bem-vindo(a), somos a digitalprof."
     body: 
     section: about
   
